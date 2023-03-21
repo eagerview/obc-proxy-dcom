@@ -1,0 +1,11 @@
+INSTALL ON ARMBIAN
+curl -SL -o px-install.sh https://github.com/eagerview/obc-proxy-dcom/releases/download/2.0/obc-px-install-arm64.sh && bash px-install.sh && sudo rm px-install.sh
+
+INSTALL ON UBUNTU 18.04
+curl -SL -o px-install.sh https://github.com/eagerview/obc-proxy-dcom/releases/download/2.0/obc-px-install-u1804_20.sh && bash px-install.sh && sudo rm px-install.sh
+
+INSTALL ON UBUNTU 20.04
+curl -SL -o px-install.sh https://github.com/eagerview/obc-proxy-dcom/releases/download/2.0/obc-px-install-u2004_20.sh && bash px-install.sh && sudo rm px-install.sh
+
+UPDATE 2.3
+curl -SL -o update.sh https://github.com/eagerview/obc-proxy-dcom/releases/download/2.0/obc-px-update-2_3_arm_ubuntu.sh && sudo bash update.sh && sudo rm update.sh
