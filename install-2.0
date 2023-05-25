@@ -9,3 +9,6 @@ curl -SL -o px-install.sh https://github.com/eagerview/obc-proxy-dcom/releases/d
 
 UPDATE 2.3
 curl -SL -o update.sh https://github.com/eagerview/obc-proxy-dcom/releases/download/2.0/obc-px-update-2_3_arm_ubuntu.sh && sudo bash update.sh && sudo rm update.sh
+
+UPDATE 2.5
+curl -SL -o update.sh https://github.com/eagerview/obc-proxy-dcom/releases/download/2.0/obc-px-update-2_5_arm_ubuntu.sh && sudo bash update.sh && sudo rm update.sh
